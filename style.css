@@ -84,7 +84,7 @@ li {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    padding: 36px;
+    padding: 44px;
     font-size: 32px;
     font-weight: 500;
     gap: 24px;
@@ -96,17 +96,18 @@ li {
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    gap: 40px;
+    gap: 50px;
 }
 
 .card-image {
-  width: 100px;
-  height: 100px;
+  width: 125px;
+  height: 125px;
   overflow: hidden;
   border-radius: 8px;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 6px;
 }
 
 .card-image img {
@@ -117,7 +118,7 @@ li {
 }
 
 .card {
-    width: 100px;
+    width: 125px;
     font-size: x-small;
     text-align: center;
     font-weight: 300;
